@@ -1,0 +1,223 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTPServer\\HTTPServer.csproj": {}
+  },
+  "projects": {
+    "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\Compresor\\Compresor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\Compresor\\Compresor.csproj",
+        "projectName": "Compresor",
+        "projectPath": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\Compresor\\Compresor.csproj",
+        "packagesPath": "C:\\Users\\prota\\.nuget\\packages\\",
+        "outputPath": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\Compresor\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Visual Studio Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\prota\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTPServer\\HTTPServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTPServer\\HTTPServer.csproj",
+        "projectName": "HTTPServer",
+        "projectPath": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTPServer\\HTTPServer.csproj",
+        "packagesPath": "C:\\Users\\prota\\.nuget\\packages\\",
+        "outputPath": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTPServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Visual Studio Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\prota\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\HTTP.csproj": {
+                "projectPath": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\HTTP.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\HTTP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\HTTP.csproj",
+        "projectName": "HTTP",
+        "projectPath": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\HTTP.csproj",
+        "packagesPath": "C:\\Users\\prota\\.nuget\\packages\\",
+        "outputPath": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Visual Studio Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\prota\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\Compresor\\Compresor.csproj": {
+                "projectPath": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\Compresor\\Compresor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

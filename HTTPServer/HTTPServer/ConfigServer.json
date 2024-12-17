@@ -1,0 +1,6 @@
+{
+	"IPADRESS": "127.0.0.1",
+	"PORT": "4000",
+	"IPADRESS_CLUSTER": "127.0.0.1",
+	"PORT_CLUSTER": "4100"
+}

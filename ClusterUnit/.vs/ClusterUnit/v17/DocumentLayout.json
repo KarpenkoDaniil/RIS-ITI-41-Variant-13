@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\STUDY\\4-cours\\RIS\\Kursach\\ClusterUnit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75E819A9-0457-44D9-8D0C-AB60CE97B6D3}|ClusterUnit\\ClusterUnit.csproj|g:\\study\\4-cours\\ris\\kursach\\clusterunit\\clusterunit\\computetools\\fastdctcompressimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E819A9-0457-44D9-8D0C-AB60CE97B6D3}|ClusterUnit\\ClusterUnit.csproj|solutionrelative:clusterunit\\computetools\\fastdctcompressimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E819A9-0457-44D9-8D0C-AB60CE97B6D3}|ClusterUnit\\ClusterUnit.csproj|g:\\study\\4-cours\\ris\\kursach\\clusterunit\\clusterunit\\unitclient\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E819A9-0457-44D9-8D0C-AB60CE97B6D3}|ClusterUnit\\ClusterUnit.csproj|solutionrelative:clusterunit\\unitclient\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E819A9-0457-44D9-8D0C-AB60CE97B6D3}|ClusterUnit\\ClusterUnit.csproj|g:\\study\\4-cours\\ris\\kursach\\clusterunit\\clusterunit\\configure.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75E819A9-0457-44D9-8D0C-AB60CE97B6D3}|ClusterUnit\\ClusterUnit.csproj|solutionrelative:clusterunit\\configure.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E819A9-0457-44D9-8D0C-AB60CE97B6D3}|ClusterUnit\\ClusterUnit.csproj|g:\\study\\4-cours\\ris\\kursach\\clusterunit\\clusterunit\\computetools\\fastndctcompress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E819A9-0457-44D9-8D0C-AB60CE97B6D3}|ClusterUnit\\ClusterUnit.csproj|solutionrelative:clusterunit\\computetools\\fastndctcompress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E819A9-0457-44D9-8D0C-AB60CE97B6D3}|ClusterUnit\\ClusterUnit.csproj|g:\\study\\4-cours\\ris\\kursach\\clusterunit\\clusterunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E819A9-0457-44D9-8D0C-AB60CE97B6D3}|ClusterUnit\\ClusterUnit.csproj|solutionrelative:clusterunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E819A9-0457-44D9-8D0C-AB60CE97B6D3}|ClusterUnit\\ClusterUnit.csproj|g:\\study\\4-cours\\ris\\kursach\\clusterunit\\clusterunit\\pocket\\pocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E819A9-0457-44D9-8D0C-AB60CE97B6D3}|ClusterUnit\\ClusterUnit.csproj|solutionrelative:clusterunit\\pocket\\pocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E819A9-0457-44D9-8D0C-AB60CE97B6D3}|ClusterUnit\\ClusterUnit.csproj|g:\\study\\4-cours\\ris\\kursach\\clusterunit\\clusterunit\\computetools\\compressimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E819A9-0457-44D9-8D0C-AB60CE97B6D3}|ClusterUnit\\ClusterUnit.csproj|solutionrelative:clusterunit\\computetools\\compressimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FastnDCTCompress.cs",
+              "DocumentMoniker": "G:\\STUDY\\4-cours\\RIS\\Kursach\\ClusterUnit\\ClusterUnit\\ComputeTools\\FastnDCTCompress.cs",
+              "RelativeDocumentMoniker": "ClusterUnit\\ComputeTools\\FastnDCTCompress.cs",
+              "ToolTip": "G:\\STUDY\\4-cours\\RIS\\Kursach\\ClusterUnit\\ClusterUnit\\ComputeTools\\FastnDCTCompress.cs",
+              "RelativeToolTip": "ClusterUnit\\ComputeTools\\FastnDCTCompress.cs",
+              "ViewState": "AgIAABkBAAAAAAAAAAAkwC4BAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:32:53.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\STUDY\\4-cours\\RIS\\Kursach\\ClusterUnit\\ClusterUnit\\Program.cs",
+              "RelativeDocumentMoniker": "ClusterUnit\\Program.cs",
+              "ToolTip": "G:\\STUDY\\4-cours\\RIS\\Kursach\\ClusterUnit\\ClusterUnit\\Program.cs",
+              "RelativeToolTip": "ClusterUnit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:32:22.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "G:\\STUDY\\4-cours\\RIS\\Kursach\\ClusterUnit\\ClusterUnit\\UnitClient\\Unit.cs",
+              "RelativeDocumentMoniker": "ClusterUnit\\UnitClient\\Unit.cs",
+              "ToolTip": "G:\\STUDY\\4-cours\\RIS\\Kursach\\ClusterUnit\\ClusterUnit\\UnitClient\\Unit.cs",
+              "RelativeToolTip": "ClusterUnit\\UnitClient\\Unit.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:07:27.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pocket.cs",
+              "DocumentMoniker": "G:\\STUDY\\4-cours\\RIS\\Kursach\\ClusterUnit\\ClusterUnit\\Pocket\\Pocket.cs",
+              "RelativeDocumentMoniker": "ClusterUnit\\Pocket\\Pocket.cs",
+              "ToolTip": "G:\\STUDY\\4-cours\\RIS\\Kursach\\ClusterUnit\\ClusterUnit\\Pocket\\Pocket.cs",
+              "RelativeToolTip": "ClusterUnit\\Pocket\\Pocket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:05:32.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FastDCTCompressIMG.cs",
+              "DocumentMoniker": "G:\\STUDY\\4-cours\\RIS\\Kursach\\ClusterUnit\\ClusterUnit\\ComputeTools\\FastDCTCompressIMG.cs",
+              "RelativeDocumentMoniker": "ClusterUnit\\ComputeTools\\FastDCTCompressIMG.cs",
+              "ToolTip": "G:\\STUDY\\4-cours\\RIS\\Kursach\\ClusterUnit\\ClusterUnit\\ComputeTools\\FastDCTCompressIMG.cs",
+              "RelativeToolTip": "ClusterUnit\\ComputeTools\\FastDCTCompressIMG.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAowIkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:54:14.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Configure.json",
+              "DocumentMoniker": "G:\\STUDY\\4-cours\\RIS\\Kursach\\ClusterUnit\\ClusterUnit\\Configure.json",
+              "RelativeDocumentMoniker": "ClusterUnit\\Configure.json",
+              "ToolTip": "G:\\STUDY\\4-cours\\RIS\\Kursach\\ClusterUnit\\ClusterUnit\\Configure.json",
+              "RelativeToolTip": "ClusterUnit\\Configure.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T07:09:58.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompressIMG.cs",
+              "DocumentMoniker": "G:\\STUDY\\4-cours\\RIS\\Kursach\\ClusterUnit\\ClusterUnit\\ComputeTools\\CompressIMG.cs",
+              "RelativeDocumentMoniker": "ClusterUnit\\ComputeTools\\CompressIMG.cs",
+              "ToolTip": "G:\\STUDY\\4-cours\\RIS\\Kursach\\ClusterUnit\\ClusterUnit\\ComputeTools\\CompressIMG.cs",
+              "RelativeToolTip": "ClusterUnit\\ComputeTools\\CompressIMG.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAcwLMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:41:16.815Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

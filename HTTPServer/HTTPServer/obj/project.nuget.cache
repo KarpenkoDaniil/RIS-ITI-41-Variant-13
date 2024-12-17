@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "53k+LFNy4HM=",
+  "success": true,
+  "projectFilePath": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTPServer\\HTTPServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prota\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\prota\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\prota\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

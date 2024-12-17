@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FA95C7-BC86-4996-88DA-09E3DB4CD204}|HTTP\\HTTP.csproj|g:\\study\\4-cours\\ris\\kursach\\httpserver\\http\\usermanager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FA95C7-BC86-4996-88DA-09E3DB4CD204}|HTTP\\HTTP.csproj|solutionrelative:http\\usermanager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FA95C7-BC86-4996-88DA-09E3DB4CD204}|HTTP\\HTTP.csproj|g:\\study\\4-cours\\ris\\kursach\\httpserver\\http\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FA95C7-BC86-4996-88DA-09E3DB4CD204}|HTTP\\HTTP.csproj|solutionrelative:http\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FA95C7-BC86-4996-88DA-09E3DB4CD204}|HTTP\\HTTP.csproj|g:\\study\\4-cours\\ris\\kursach\\httpserver\\http\\claster\\claster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FA95C7-BC86-4996-88DA-09E3DB4CD204}|HTTP\\HTTP.csproj|solutionrelative:http\\claster\\claster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FA95C7-BC86-4996-88DA-09E3DB4CD204}|HTTP\\HTTP.csproj|g:\\study\\4-cours\\ris\\kursach\\httpserver\\http\\claster\\clastermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FA95C7-BC86-4996-88DA-09E3DB4CD204}|HTTP\\HTTP.csproj|solutionrelative:http\\claster\\clastermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FA95C7-BC86-4996-88DA-09E3DB4CD204}|HTTP\\HTTP.csproj|g:\\study\\4-cours\\ris\\kursach\\httpserver\\http\\httpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FA95C7-BC86-4996-88DA-09E3DB4CD204}|HTTP\\HTTP.csproj|solutionrelative:http\\httpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FA95C7-BC86-4996-88DA-09E3DB4CD204}|HTTP\\HTTP.csproj|g:\\study\\4-cours\\ris\\kursach\\httpserver\\http\\mesage\\mesage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FA95C7-BC86-4996-88DA-09E3DB4CD204}|HTTP\\HTTP.csproj|solutionrelative:http\\mesage\\mesage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FA95C7-BC86-4996-88DA-09E3DB4CD204}|HTTP\\HTTP.csproj|g:\\study\\4-cours\\ris\\kursach\\httpserver\\http\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FA95C7-BC86-4996-88DA-09E3DB4CD204}|HTTP\\HTTP.csproj|solutionrelative:http\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FA95C7-BC86-4996-88DA-09E3DB4CD204}|HTTP\\HTTP.csproj|g:\\study\\4-cours\\ris\\kursach\\httpserver\\http\\httprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FA95C7-BC86-4996-88DA-09E3DB4CD204}|HTTP\\HTTP.csproj|solutionrelative:http\\httprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FA95C7-BC86-4996-88DA-09E3DB4CD204}|HTTP\\HTTP.csproj|g:\\study\\4-cours\\ris\\kursach\\httpserver\\http\\configserver.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5FA95C7-BC86-4996-88DA-09E3DB4CD204}|HTTP\\HTTP.csproj|solutionrelative:http\\configserver.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA4E39-005C-4EF1-9C85-51E6832C23AE}|HTTPServer\\HTTPServer.csproj|g:\\study\\4-cours\\ris\\kursach\\httpserver\\httpserver\\configserver.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CCA4E39-005C-4EF1-9C85-51E6832C23AE}|HTTPServer\\HTTPServer.csproj|solutionrelative:httpserver\\configserver.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA4E39-005C-4EF1-9C85-51E6832C23AE}|HTTPServer\\HTTPServer.csproj|g:\\study\\4-cours\\ris\\kursach\\httpserver\\httpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA4E39-005C-4EF1-9C85-51E6832C23AE}|HTTPServer\\HTTPServer.csproj|solutionrelative:httpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigServer.json",
+              "DocumentMoniker": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTPServer\\ConfigServer.json",
+              "RelativeDocumentMoniker": "HTTPServer\\ConfigServer.json",
+              "ToolTip": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTPServer\\ConfigServer.json",
+              "RelativeToolTip": "HTTPServer\\ConfigServer.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T14:09:51.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\UserManager\\UserManager.cs",
+              "RelativeDocumentMoniker": "HTTP\\UserManager\\UserManager.cs",
+              "ToolTip": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\UserManager\\UserManager.cs",
+              "RelativeToolTip": "HTTP\\UserManager\\UserManager.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwE8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T07:44:00.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClasterManager.cs",
+              "DocumentMoniker": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\Claster\\ClasterManager.cs",
+              "RelativeDocumentMoniker": "HTTP\\Claster\\ClasterManager.cs",
+              "ToolTip": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\Claster\\ClasterManager.cs",
+              "RelativeToolTip": "HTTP\\Claster\\ClasterManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:02:37.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Claster.cs",
+              "DocumentMoniker": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\Claster\\Claster.cs",
+              "RelativeDocumentMoniker": "HTTP\\Claster\\Claster.cs",
+              "ToolTip": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\Claster\\Claster.cs",
+              "RelativeToolTip": "HTTP\\Claster\\Claster.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:02:48.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileHandler.cs",
+              "DocumentMoniker": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\FileHandler.cs",
+              "RelativeDocumentMoniker": "HTTP\\FileHandler.cs",
+              "ToolTip": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\FileHandler.cs",
+              "RelativeToolTip": "HTTP\\FileHandler.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwIoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:22:04.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HTTPRequest.cs",
+              "DocumentMoniker": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\HTTPRequest.cs",
+              "RelativeDocumentMoniker": "HTTP\\HTTPRequest.cs",
+              "ToolTip": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\HTTPRequest.cs",
+              "RelativeToolTip": "HTTP\\HTTPRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:19:36.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HTTPResponse.cs",
+              "DocumentMoniker": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\HTTPResponse.cs",
+              "RelativeDocumentMoniker": "HTTP\\HTTPResponse.cs",
+              "ToolTip": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\HTTPResponse.cs",
+              "RelativeToolTip": "HTTP\\HTTPResponse.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowD4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:05:26.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HTTPServer.cs",
+              "DocumentMoniker": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\HTTPServer.cs",
+              "RelativeDocumentMoniker": "HTTP\\HTTPServer.cs",
+              "ToolTip": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\HTTPServer.cs",
+              "RelativeToolTip": "HTTP\\HTTPServer.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAmwJYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:38:28.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mesage.cs",
+              "DocumentMoniker": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\Mesage\\Mesage.cs",
+              "RelativeDocumentMoniker": "HTTP\\Mesage\\Mesage.cs",
+              "ToolTip": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\Mesage\\Mesage.cs",
+              "RelativeToolTip": "HTTP\\Mesage\\Mesage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:04:36.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConfigServer.json",
+              "DocumentMoniker": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\ConfigServer.json",
+              "RelativeDocumentMoniker": "HTTP\\ConfigServer.json",
+              "ToolTip": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTP\\ConfigServer.json",
+              "RelativeToolTip": "HTTP\\ConfigServer.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T14:15:32.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTPServer\\Program.cs",
+              "RelativeDocumentMoniker": "HTTPServer\\Program.cs",
+              "ToolTip": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\HTTPServer\\Program.cs",
+              "RelativeToolTip": "HTTPServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:36:49.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

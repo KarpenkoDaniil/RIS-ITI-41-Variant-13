@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\STUDY\\4-cours\\RIS\\Kursach\\Test\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31723548-B01A-467B-AA24-4B5C3542F6FF}|Test\\Test.csproj|g:\\study\\4-cours\\ris\\kursach\\test\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31723548-B01A-467B-AA24-4B5C3542F6FF}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31723548-B01A-467B-AA24-4B5C3542F6FF}|Test\\Test.csproj|g:\\study\\4-cours\\ris\\kursach\\test\\test\\test\\logfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{31723548-B01A-467B-AA24-4B5C3542F6FF}|Test\\Test.csproj|solutionrelative:test\\logfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31723548-B01A-467B-AA24-4B5C3542F6FF}|Test\\Test.csproj|g:\\study\\4-cours\\ris\\kursach\\test\\test\\test\\images\\arh.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{31723548-B01A-467B-AA24-4B5C3542F6FF}|Test\\Test.csproj|solutionrelative:test\\images\\arh.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogFile.txt",
+              "DocumentMoniker": "G:\\STUDY\\4-cours\\RIS\\Kursach\\Test\\Test\\Test\\LogFile.txt",
+              "RelativeDocumentMoniker": "Test\\LogFile.txt",
+              "ToolTip": "G:\\STUDY\\4-cours\\RIS\\Kursach\\Test\\Test\\Test\\LogFile.txt",
+              "RelativeToolTip": "Test\\LogFile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-11T06:17:39.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "arh.png",
+              "DocumentMoniker": "G:\\STUDY\\4-cours\\RIS\\Kursach\\Test\\Test\\Test\\Images\\arh.png",
+              "RelativeDocumentMoniker": "Test\\Images\\arh.png",
+              "ToolTip": "G:\\STUDY\\4-cours\\RIS\\Kursach\\Test\\Test\\Test\\Images\\arh.png",
+              "RelativeToolTip": "Test\\Images\\arh.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-10T09:45:44.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\STUDY\\4-cours\\RIS\\Kursach\\Test\\Test\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "G:\\STUDY\\4-cours\\RIS\\Kursach\\Test\\Test\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowHkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:41:18.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

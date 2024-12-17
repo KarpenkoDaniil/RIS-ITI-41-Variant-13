@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "IPppgr6nC3Y=",
+  "success": true,
+  "projectFilePath": "G:\\STUDY\\4-cours\\RIS\\Kursach\\HTTPServer\\Compresor\\Compresor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prota\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\prota\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json."
+    }
+  ]
+}
